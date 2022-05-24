@@ -1,0 +1,27 @@
+body{
+  text-align:center;
+}
+h1{
+  font-size:60px;
+}
+h2{
+  font-size:30px;
+  color:blue;
+}
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
+
+#img-caption{
+  font-family:sans-serif;
+}
+p{
+  font-size:20px;
+  font-famly:helvetico;
+}
+#tribute-link{
+  font-size:20px;
+}
